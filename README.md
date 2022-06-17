@@ -24,7 +24,7 @@
 <a href="https://instagram.com/nascimentoliveira" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-/nascimentoliveira-D6D6D6?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://youtube.com/nascimentoliveira" target="_blank">
+<a href="https://www.youtube.com/channel/UCJiS227kdixtbyRYCZ_kC-w" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-/nascimentoliveira-D6D6D6?style=flat&logo=youtube&logoColor=red" alt="youtube"/>
 </a>
 </p>
