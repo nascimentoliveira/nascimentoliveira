@@ -19,7 +19,7 @@
   <img align="center" src="https://img.shields.io/badge/-/nascimento__live-D6D6D6?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/nascimentoliveira" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-/nascimentoliveira-D6D6D6?style=flat&logo=linkedinlogoColor=blue" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-/nascimentoliveira-D6D6D6?style=flat&logo=linkedin&logoColor=blue" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/nascimentoliveira" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-/nascimentoliveira-D6D6D6?style=flat&logo=instagram" alt="instagram"/>
@@ -32,18 +32,18 @@
 
 ## Practicing
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-D6D6D6?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-D6D6D6?style=flat&logo=pandas&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-D6D6D6?style=flat&logo=visual-studio-code&logoColor=blue)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-D6D6D6?style=flat&logo=pandas&logoColor=blue)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-D6D6D6?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-D6D6D6?style=flat&logo=java&logoColor=B50E0E)&nbsp;
-![C](https://img.shields.io/badge/-C-D6D6D6?style=flat&logo=c)&nbsp;
-![Cpp](https://img.shields.io/badge/-C-D6D6D6?style=flat&logo=c%2B%2B)&nbsp;
+![Java](https://img.shields.io/badge/-Java-D6D6D6?style=flat&logo=java&logoColor=red)&nbsp;
+![C](https://img.shields.io/badge/-C-D6D6D6?style=flat&logo=c&logoColor=blue)&nbsp;
+![Cpp](https://img.shields.io/badge/-C++-D6D6D6?style=flat&logo=c%2B%2B&logoColor=blue)&nbsp;
 
 ## Learning
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-D6D6D6?style=flat&logo=javascript)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-D6D6D6?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-D6D6D6?style=flat&logo=markdown)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-D6D6D6?style=flat&logo=github&logoColor=black)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-D6D6D6?style=flat&logo=markdown&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-D6D6D6?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-D6D6D6?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-D6D6D6?style=flat&logo=react)&nbsp;
@@ -65,8 +65,7 @@
 
 ## Social Links
 
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=nascimento__live&layout=wide&show_reply=off&show_retweet=off"/>
-
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=nascimento_live)](https://github.com/gazf/github-readme-twitter)
 <!---
 nascimentoliveira/nascimentoliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
