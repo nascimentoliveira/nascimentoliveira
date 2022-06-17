@@ -1,15 +1,15 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="50" height="50">, I'm Thiago Nascimento</h1>
+<h1 align="left">Hello Devs! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="50" height="50"> I'm Thiago Nascimento.</h1>
 
+I'm majoring in Computer Science at the Federal University of Rio de Janeiro.
 
-- 👋 Hi, I’m @nascimentoliveira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Passionate about Artificial Intelligence, Natural Language Processing and Programming Problems.
 
+I seek to learn more about front-end development and improve my knowledge with back-end practice.
+
+You can find me through social media:
 
 <p align="left" style="background:yellow">
-<a href="https://gmail.com" target="_blank">
+<a href="mailto:nascimentoliveira@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-nascimentoliveira@gmail.com-D6D6D6?style=flat&logo=gmail" alt="gmail"/>  
 </a> 
 <a href="https://facebook.com/nascimentoliveira" target="_blank">
@@ -30,14 +30,16 @@
 </p>
 
 
-## Practicing
+## Knowledge
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-D6D6D6?style=flat&logo=visual-studio-code&logoColor=blue)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-D6D6D6?style=flat&logo=pandas&logoColor=blue)&nbsp;
-![Python](https://img.shields.io/badge/-Python-D6D6D6?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-D6D6D6?style=flat&logo=java&logoColor=red)&nbsp;
+![Anaconda](https://img.shields.io/badge/-Anaconda-D6D6D6?style=flat&logo=anaconda)&nbsp;
 ![C](https://img.shields.io/badge/-C-D6D6D6?style=flat&logo=c&logoColor=blue)&nbsp;
 ![Cpp](https://img.shields.io/badge/-C++-D6D6D6?style=flat&logo=c%2B%2B&logoColor=blue)&nbsp;
+![Python](https://img.shields.io/badge/-Python-D6D6D6?style=flat&logo=python)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-D6D6D6?style=flat&logo=pandas&logoColor=blue)&nbsp;
+![Java](https://img.shields.io/badge/-Java-D6D6D6?style=flat&logo=java&logoColor=red)&nbsp;
+
 
 ## Learning
 
@@ -48,12 +50,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-D6D6D6?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-D6D6D6?style=flat&logo=react)&nbsp;
 
-<!---
-![Node.js](https://img.shields.io/badge/-Node.js-D6D6D6?style=flat&logo=node.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-D6D6D6?style=flat&logo=git)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-D6D6D6?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-D6D6D6?style=flat&logo=sqlite)&nbsp;
--->
 
 ## GitHub Analytics
 
