@@ -12,6 +12,9 @@ You can find me through social media:
 <a href="mailto:nascimentoliveira@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-nascimentoliveira@gmail.com-D6D6D6?style=flat&logo=gmail" alt="gmail"/>  
 </a> 
+<a href="https://t.me/+IGf9PCIZuQFkZWU5" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-@nascimentoliveira-D6D6D6?style=flat&logo=telegram" alt="telegram"/>  
+</a> 
 <a href="https://facebook.com/nascimentoliveira" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-/nascimentoliveira-D6D6D6?style=flat&logo=facebook" alt="facebook"/>  
 </a> 
