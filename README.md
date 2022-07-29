@@ -12,6 +12,7 @@ You can find me through social media:
 <a href="mailto:nascimentoliveira@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-nascimentoliveira@gmail.com-D6D6D6?style=flat&logo=gmail" alt="gmail"/>  
 </a> 
+<!---
 <a href="https://t.me/+IGf9PCIZuQFkZWU5" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-@nascimentoliveira-D6D6D6?style=flat&logo=telegram" alt="telegram"/>  
 </a> 
@@ -21,15 +22,18 @@ You can find me through social media:
 <a href="https://twitter.com/nascimento_live" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-/nascimento__live-D6D6D6?style=flat&logo=twitter" alt="twitter"/>  
 </a>
+--->
 <a href="https://linkedin.com/in/nascimentoliveira" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-/nascimentoliveira-D6D6D6?style=flat&logo=linkedin&logoColor=blue" alt="linkedin"/>
 </a>
+<!---
 <a href="https://instagram.com/nascimentoliveira" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-/nascimentoliveira-D6D6D6?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://www.youtube.com/channel/UCJiS227kdixtbyRYCZ_kC-w" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-/nascimentoliveira-D6D6D6?style=flat&logo=youtube&logoColor=red" alt="youtube"/>
 </a>
+--->
 </p>
 
 
