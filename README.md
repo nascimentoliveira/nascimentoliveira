@@ -65,11 +65,11 @@ You can find me through social media:
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascimentoliveira&layout=compact&theme=vision-friendly-dark" alt="nascimentoliveira's most languages"/>
 </p>
 
-
+<!---
 ## Social Links
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=nascimento_live)](https://github.com/gazf/github-readme-twitter)
-<!---
+
 nascimentoliveira/nascimentoliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
