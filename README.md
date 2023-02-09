@@ -8,68 +8,51 @@ I seek to learn more about front-end development and improve my knowledge with b
 
 You can find me through social media:
 
-<p align="left" style="background:yellow">
-<a href="mailto:nascimentoliveira@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-nascimentoliveira@gmail.com-D6D6D6?style=flat&logo=gmail" alt="gmail"/>  
-</a> 
-<!---
-<a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-@nascimentoliveira-D6D6D6?style=flat&logo=telegram" alt="telegram"/>  
-</a> 
-<a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-/nascimentoliveira-D6D6D6?style=flat&logo=facebook" alt="facebook"/>  
-</a> 
-<a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-/nascimento__live-D6D6D6?style=flat&logo=twitter" alt="twitter"/>  
-</a>
---->
-<a href="https://linkedin.com/in/nascimentoliveira" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-/nascimentoliveira-D6D6D6?style=flat&logo=linkedin&logoColor=blue" alt="linkedin"/>
-</a>
-<!---
-<a href="" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-/nascimentoliveira-D6D6D6?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-/nascimentoliveira-D6D6D6?style=flat&logo=youtube&logoColor=red" alt="youtube"/>
-</a>
---->
-</p>
-
+[![Gmail](https://img.shields.io/badge/-nascimentoliveira@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&color=97CA00&labelColor=FFFFFF)&nbsp;](mailto:nascimentoliveira@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-/nascimentoliveira-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=blue&color=97CA00&labelColor=FFFFFF)](https://linkedin.com/in/nascimentoliveira)
 
 ## Knowledge
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-D6D6D6?style=flat&logo=visual-studio-code&logoColor=blue)&nbsp;
-![Anaconda](https://img.shields.io/badge/-Anaconda-D6D6D6?style=flat&logo=anaconda)&nbsp;
-![C](https://img.shields.io/badge/-C-D6D6D6?style=flat&logo=c&logoColor=blue)&nbsp;
-![Cpp](https://img.shields.io/badge/-C++-D6D6D6?style=flat&logo=c%2B%2B&logoColor=blue)&nbsp;
-![Python](https://img.shields.io/badge/-Python-D6D6D6?style=flat&logo=python)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-D6D6D6?style=flat&logo=pandas&logoColor=blue)&nbsp;
-![Java](https://img.shields.io/badge/-Java-D6D6D6?style=flat&logo=java&logoColor=red)&nbsp;
+### Languages
+ 
+[![Java](https://img.shields.io/badge/-java-ffffff?style=for-the-badge&logo=java&color=97ca00&labelColor=ffffff)&nbsp;](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=javascript&color=97ca00&labelColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![C](https://img.shields.io/badge/-c-ffffff?style=for-the-badge&logo=c&logoColor=blue&color=97ca00&labelColor=ffffff)&nbsp;](https://www.w3schools.com/c/c_intro.php)
+[![Python](https://img.shields.io/badge/-python-ffffff?style=for-the-badge&logo=python&color=97ca00&labelColor=ffffff)&nbsp;](https://www.python.org/)
+[![HTML](https://img.shields.io/badge/-html5-ffffff?style=for-the-badge&logo=html5&color=97ca00&labelColor=ffffff)&nbsp;](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/-css3-ffffff?style=for-the-badge&logo=css3&logoColor=blue&color=97ca00&labelColor=ffffff)&nbsp;](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
+### Libs and Tools
+
+[![Pandas](https://img.shields.io/badge/-pandas-ffffff?style=for-the-badge&logo=pandas&logoColor=blue&color=97ca00&labelColor=ffffff)&nbsp;](https://pandas.pydata.org/)
+[![Numpy](https://img.shields.io/badge/-numpy-ffffff?style=for-the-badge&logo=numpy&logoColor=red&color=97ca00&labelColor=ffffff)&nbsp;](https://numpy.org/)
+[![React](https://img.shields.io/badge/-react-ffffff?style=for-the-badge&logo=react&color=97ca00&labelColor=ffffff)&nbsp;](https://reactjs.org/)
+[![NodeJs](https://img.shields.io/badge/-nodejs-ffffff?style=for-the-badge&logo=nodedotjs&color=97ca00&labelColor=ffffff)&nbsp;](https://nodejs.org/)
+[![TypeScript](https://img.shields.io/badge/-typescript-ffffff?style=for-the-badge&logo=typescript&color=97ca00&labelColor=ffffff)&nbsp;](https://www.typescriptlang.org/)
+[![PostgreSQL](https://img.shields.io/badge/-postgresql-ffffff?style=for-the-badge&logo=Postgresql&color=97ca00&labelColor=ffffff)&nbsp;](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/-mongodb-ffffff?style=for-the-badge&logo=mongodb&color=97ca00&labelColor=ffffff)&nbsp;](https://www.mongodb.com/)
+[![Express](https://img.shields.io/badge/-express-ffffff?style=for-the-badge&logo=express&logoColor=black&color=97ca00&labelColor=ffffff)&nbsp;](https://expressjs.com/pt-br/)
+[![Jest](https://img.shields.io/badge/-jest-ffffff?style=for-the-badge&logo=jest&logoColor=red&color=97ca00&labelColor=ffffff)&nbsp;](https://jestjs.io/pt-BR/)
+[![Prisma](https://img.shields.io/badge/-prisma-ffffff?style=for-the-badge&logo=prisma&logoColor=black&color=97ca00&labelColor=ffffff)&nbsp;
+](https://www.prisma.io/docs)
+
+### Editors and Tools
+
+[![Visual Studio Code](https://img.shields.io/badge/-visual%20studio%20code-ffffff?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue&color=97ca00&labelColor=ffffff)&nbsp;](https://code.visualstudio.com/)
+[![Anaconda](https://img.shields.io/badge/-Anaconda-ffffff?style=for-the-badge&logo=anaconda&color=97ca00&labelColor=ffffff)&nbsp;](https://www.anaconda.com/)
+[![Spyder](https://img.shields.io/badge/-spyder-ffffff?style=for-the-badge&logo=spyder%20ide&logoColor=black&color=97ca00&labelColor=ffffff)&nbsp;](https://www.spyder-ide.org/)
+[![Eclipse](https://img.shields.io/badge/-eclipse-ffffff?style=for-the-badge&logo=eclipse&logoColor=blue&color=97ca00&labelColor=ffffff)&nbsp;](https://www.eclipse.org/downloads/)
+[![Colab](https://img.shields.io/badge/-colab-ffffff?style=for-the-badge&logo=googlecolab&color=97ca00&labelColor=ffffff)&nbsp;](https://colab.research.google.com/)
+[![Git](https://img.shields.io/badge/-git-ffffff?style=for-the-badge&logo=git&logoColor=black&color=97ca00&labelColor=ffffff)&nbsp;](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-github-ffffff?style=for-the-badge&logo=github&logoColor=black&color=97ca00&labelColor=ffffff)&nbsp;](https://github.com/)
 
 ## Learning
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-D6D6D6?style=flat&logo=javascript)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-D6D6D6?style=flat&logo=github&logoColor=black)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-D6D6D6?style=flat&logo=markdown&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-D6D6D6?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-D6D6D6?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-D6D6D6?style=flat&logo=react)&nbsp;
-
+[![Markdown](https://img.shields.io/badge/-markdown-ffffff?style=for-the-badge&logo=markdown&logoColor=black&color=97CA00&labelColor=ffffff)&nbsp;](https://daringfireball.net/projects/markdown/)
+[![AWS](https://img.shields.io/badge/-aws-ffffff?style=for-the-badge&logo=amazonaws&logoColor=orange&color=97CA00&labelColor=ffffff)&nbsp;](https://aws.amazon.com/pt/)
+[![Docker](https://img.shields.io/badge/-docker-ffffff?style=for-the-badge&logo=docker&color=97ca00&labelColor=ffffff)&nbsp;](https://www.docker.com/)
 
 ## GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=nascimentoliveira&show_icons=true&theme=vision-friendly-dark" alt="nascimentoliveira's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascimentoliveira&layout=compact&theme=vision-friendly-dark" alt="nascimentoliveira's most languages"/>
-</p>
-
-<!---
-## Social Links
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=nascimento_live)](https://github.com/gazf/github-readme-twitter)
-
-nascimentoliveira/nascimentoliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Thiago Nascimento's GitHub stats](https://github-readme-stats.vercel.app/api?username=nascimentoliveira&show_icons=true&theme=merko&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nascimentoliveira&layout=compact&show_icons=true&theme=merko&bg_color=00000000&card_width=400)](https://github.com/nascimentoliveira/github-readme-stats)
