@@ -43,7 +43,7 @@ You can find me through social media:
 [![Spyder](https://img.shields.io/badge/-spyder-ffffff?style=for-the-badge&logo=spyder%20ide&logoColor=black&color=97ca00&labelColor=ffffff)&nbsp;](https://www.spyder-ide.org/)
 [![Eclipse](https://img.shields.io/badge/-eclipse-ffffff?style=for-the-badge&logo=eclipse&logoColor=blue&color=97ca00&labelColor=ffffff)&nbsp;](https://www.eclipse.org/downloads/)
 [![Colab](https://img.shields.io/badge/-colab-ffffff?style=for-the-badge&logo=googlecolab&color=97ca00&labelColor=ffffff)&nbsp;](https://colab.research.google.com/)
-[![Git](https://img.shields.io/badge/-git-ffffff?style=for-the-badge&logo=git&logoColor=black&color=97ca00&labelColor=ffffff)&nbsp;](https://git-scm.com/)
+[![Git](https://img.shields.io/badge/-git-ffffff?style=for-the-badge&logo=git&color=97ca00&labelColor=ffffff)&nbsp;](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-github-ffffff?style=for-the-badge&logo=github&logoColor=black&color=97ca00&labelColor=ffffff)&nbsp;](https://github.com/)
 
 ## Learning
