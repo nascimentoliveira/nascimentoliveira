@@ -51,6 +51,8 @@ You can find me through social media:
 [![Markdown](https://img.shields.io/badge/-markdown-ffffff?style=for-the-badge&logo=markdown&logoColor=black&color=97CA00&labelColor=ffffff)&nbsp;](https://daringfireball.net/projects/markdown/)
 [![AWS](https://img.shields.io/badge/-aws-ffffff?style=for-the-badge&logo=amazonaws&logoColor=orange&color=97CA00&labelColor=ffffff)&nbsp;](https://aws.amazon.com/pt/)
 [![Docker](https://img.shields.io/badge/-docker-ffffff?style=for-the-badge&logo=docker&color=97ca00&labelColor=ffffff)&nbsp;](https://www.docker.com/)
+[![GoLang](https://img.shields.io/badge/-go-ffffff?style=for-the-badge&logo=go&color=97ca00&labelColor=ffffff)&nbsp;](https://go.dev/)
+[![Spring](https://img.shields.io/badge/-Spring-ffffff?style=for-the-badge&logo=spring-boot&color=97ca00&labelColor=ffffff)&nbsp;](https://spring.io/)
 
 ## GitHub Analytics
 
