@@ -1,4 +1,4 @@
-<h1 align="left">Hello Devs! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="50" height="50"> I'm Thiago Nascimento.</h1>
+<h1 align="left">Hello Devs! I'm Thiago Nascimento.</h1>
 
 I'm majoring in Computer Science at the Federal University of Rio de Janeiro.
 
