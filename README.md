@@ -1,4 +1,7 @@
-<h1 align="left">Hello Devs! I'm Thiago Nascimento.</h1>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnascimentoliveira&label=Visitors&labelColor=%2397ca00&countColor=%23ffffff)
+
+# Hello Devs! I'm Thiago Nascimento.
+
 
 I'm majoring in Computer Science at the Federal University of Rio de Janeiro.
 
