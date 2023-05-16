@@ -3,13 +3,11 @@
 # Hello Devs! I'm Thiago Nascimento.
 
 
-I'm majoring in Computer Science at the Federal University of Rio de Janeiro.
+I have a bachelor's degree in Computer Science from the Federal University of Rio de Janeiro.
 
-Passionate about Artificial Intelligence, Natural Language Processing and Programming Problems.
+Passionate about Artificial Intelligence, Natural Language Processing, Data Science, Back-end Development and Programming Problems.
 
-I seek to learn more about front-end development and improve my knowledge with back-end practice.
-
-You can find me through social media:
+You can find me on social media:
 
 [![Gmail](https://img.shields.io/badge/-nascimentoliveira@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&color=97CA00&labelColor=FFFFFF)&nbsp;](mailto:nascimentoliveira@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-/nascimentoliveira-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=blue&color=97CA00&labelColor=FFFFFF)](https://linkedin.com/in/nascimentoliveira)
@@ -55,7 +53,8 @@ You can find me through social media:
 [![AWS](https://img.shields.io/badge/-aws-ffffff?style=for-the-badge&logo=amazonaws&logoColor=orange&color=97CA00&labelColor=ffffff)&nbsp;](https://aws.amazon.com/pt/)
 [![Docker](https://img.shields.io/badge/-docker-ffffff?style=for-the-badge&logo=docker&color=97ca00&labelColor=ffffff)&nbsp;](https://www.docker.com/)
 [![GoLang](https://img.shields.io/badge/-go-ffffff?style=for-the-badge&logo=go&color=97ca00&labelColor=ffffff)&nbsp;](https://go.dev/)
-[![Spring](https://img.shields.io/badge/-Spring-ffffff?style=for-the-badge&logo=spring-boot&color=97ca00&labelColor=ffffff)&nbsp;](https://spring.io/)
+[![Spring](https://img.shields.io/badge/-spring-ffffff?style=for-the-badge&logo=spring-boot&color=97ca00&labelColor=ffffff)&nbsp;](https://spring.io/)
+[![Jest.js](https://img.shields.io/badge/-Nest.js-ffffff?style=for-the-badge&logo=spring-boot&color=97ca00&labelColor=ffffff)&nbsp;](https://nestjs.com/)
 
 ## GitHub Analytics
 
