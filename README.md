@@ -54,7 +54,7 @@ You can find me on social media:
 [![Docker](https://img.shields.io/badge/-docker-ffffff?style=for-the-badge&logo=docker&color=97ca00&labelColor=ffffff)&nbsp;](https://www.docker.com/)
 [![GoLang](https://img.shields.io/badge/-go-ffffff?style=for-the-badge&logo=go&color=97ca00&labelColor=ffffff)&nbsp;](https://go.dev/)
 [![Spring](https://img.shields.io/badge/-spring-ffffff?style=for-the-badge&logo=spring-boot&color=97ca00&labelColor=ffffff)&nbsp;](https://spring.io/)
-[![Jest.js](https://img.shields.io/badge/-Nest.js-ffffff?style=for-the-badge&logo=spring-boot&color=97ca00&labelColor=ffffff)&nbsp;](https://nestjs.com/)
+[![Nestjs](https://img.shields.io/badge/-nestjs-ffffff?style=for-the-badge&logo=nestjs&logoColor=red&color=97ca00&labelColor=ffffff)&nbsp;](https://nestjs.com/)
 
 ## GitHub Analytics
 
