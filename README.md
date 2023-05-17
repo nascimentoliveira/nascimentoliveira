@@ -56,7 +56,7 @@ You can find me on social media:
 [![GoLang](https://img.shields.io/badge/-go-ffffff?style=for-the-badge&logo=go&logoColor=white&color=007EC6&labelColor=555555)&nbsp;](https://go.dev/)
 [![Spring](https://img.shields.io/badge/-spring-ffffff?style=for-the-badge&logo=spring-boot&logoColor=white&color=007EC6&labelColor=555555)&nbsp;](https://spring.io/)
 [![Nestjs](https://img.shields.io/badge/-nestjs-ffffff?style=for-the-badge&logo=nestjs&logoColor=white&color=007EC6&labelColor=555555)&nbsp;](https://nestjs.com/)
-[![Nestjs](https://img.shields.io/badge/-nestjs-ffffff?style=for-the-badge&logo=nestjs&logoColor=white&color=007EC6&labelColor=555555)&nbsp;](https://nestjs.com/)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&color=007EC6&labelColor=555555)&nbsp;](https://www.nginx.com/)
 
 ## GitHub Analytics
 ![Thiago Nascimento's GitHub stats](https://github-readme-stats.vercel.app/api?username=nascimentoliveira&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)
