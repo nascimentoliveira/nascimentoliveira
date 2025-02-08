@@ -6,10 +6,25 @@ I hold a Bachelor's degree in Computer Science from the Federal University of Ri
 
 In my daily work, I adopt a development approach guided by best practices. I am interested in software quality, system architecture, and design patterns, as well as how this knowledge can be applied to solve complex problems in a structured and efficient manner.
 
+
+
 You can find me on social media:
 
 [![Gmail](https://img.shields.io/badge/-nascimentoliveira@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=white&color=007EC6&labelColor=555555)](mailto:nascimentoliveira@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-/nascimentoliveira-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=white&color=007EC6&labelColor=555555)](https://linkedin.com/in/nascimentoliveira)
+[![Linkedin](https://img.shields.io/badge/-linkedin.com/in/nascimentoliveira-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=white&color=007EC6&labelColor=555555)](https://linkedin.com/in/nascimentoliveira)
+
+## Certifications
+
+<table>
+  <tr>
+    <td valign="middle">
+      <img src="https://github.com/user-attachments/assets/3fe0aa2e-9e42-4758-b4b8-2a9fd10b9943" alt="drawing" width="150"/>
+    </td>
+    <td valign="middle"">
+      <strong>ISTQB® Certified Tester Foundation Level</strong>
+    </td>
+  </tr>
+</table>
 
 ## Knowledge
 
